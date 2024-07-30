@@ -8,9 +8,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rikvik2006&theme=onedark&title=Stars,Followers,Commit,Joined2020,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
--   🔭 I’m currently working on **Bread it's not mee6 Web DashBoard**
+-   🔭 I’m currently working on **Discord MassDM bot**
 
--   🌱 I’m currently learning **Nest Js and Rust**
+-   🌱 I’m currently learning **Rust**
 
 -   📫 How to reach me **Discord: rikvik2006**
 
